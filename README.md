@@ -1,2 +1,2 @@
-# MyProjects
-Project with using git
+# Java Gui Calculator
+A Simple Calculator GUI program using with Java
